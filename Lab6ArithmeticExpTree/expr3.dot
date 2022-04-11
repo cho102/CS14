@@ -1,0 +1,6 @@
+digraph G {
+o -> k
+o -> n
+n -> l
+n -> m
+}
